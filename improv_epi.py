@@ -71,3 +71,4 @@ z = np.where(arr==9)
 x = np.size(z)
 
 print((x/ntrials)*100)
+"""
